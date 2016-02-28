@@ -1,0 +1,33 @@
+_repo: Miscellanies-Upon-Various-Subjects_4254
+creator:
+  author:
+    agent_name: Aubrey, John
+    birthdate: 1626
+    deathdate: 1697
+    gutenberg_agent_id: '1419'
+    url: http://www.gutenberg.org/2009/agents/1419
+    wikipedia: http://en.wikipedia.org/wiki/John_Aubrey
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Superstition'
+- !lcc 'BF'
+- !lcsh 'Occultism'
+tableOfContents: Life of Aubrey -- Dedication to the first edition -- Day-fatality;
+  or, some observations of days lucky and unlucky -- Day-fatality of Rome -- Of fatalities
+  of families and places -- Ostenta; or, portents -- Omens -- Dreams -- Apparitions
+  -- Voices -- Impulses -- Knockings -- Blows invisible -- Prophesies -- Miranda --
+  Magick -- Transportation by an invisible power -- Visions in a beryl or crystal
+  -- Visions without a glass or crystal -- Converse with angels and spirits -- Corps-candles
+  in Wales -- Oracles -- Ecstacy -- Glances of love and malice -- An accurate account
+  of second-sighted men in Scotland -- Additaments of second-sight -- Farther additaments
+  -- Appendix.
+title: Miscellanies Upon Various Subjects
+url: http://www.gutenberg.org/ebooks/4254
