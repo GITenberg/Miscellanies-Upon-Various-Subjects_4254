@@ -1,5 +1,5 @@
 _repo: Miscellanies-Upon-Various-Subjects_4254
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Superstition'
 - !lcc 'BF'
 - !lcsh 'Occultism'
+- GITenberg
 tableOfContents: Life of Aubrey -- Dedication to the first edition -- Day-fatality;
   or, some observations of days lucky and unlucky -- Day-fatality of Rome -- Of fatalities
   of families and places -- Ostenta; or, portents -- Omens -- Dreams -- Apparitions
